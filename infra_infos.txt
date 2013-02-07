@@ -1,0 +1,4 @@
+depend:Qt4
+LDFLAGS:
+CFLAGS:
+
